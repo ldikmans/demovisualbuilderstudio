@@ -1,0 +1,16 @@
+{
+    "name": "demo",
+    "version": "0.1.1",
+    "description": "demo application to show how to do DevOps in the Oracle Cloud",
+    "license": "MIT",
+    "keywords": [
+        "demo",
+        "server"
+    ],
+    "author": "ldikmans",
+    "contributors": [],
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
